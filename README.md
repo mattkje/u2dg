@@ -1,4 +1,4 @@
 # 2D Adventure Awaits
-🎮 Dive into the captivating world of our untitled 2D game. Get ready for exciting updates and thrilling gameplay! 🌟
+🎮 This is my still untitled 2D game. Not much here yet! 🌟
 
 ![Explore the world](https://github.com/mattkje/u2dg/blob/main/src/main/resources/images/tower.png?raw=true)
